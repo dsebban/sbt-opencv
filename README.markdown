@@ -1,4 +1,4 @@
-# SBT-OpenCV
+# SBT-OpenCV: HAS MOVED under the [bytedeco organisation](https://github.com/bytedeco/sbt-javacv)
 
 Makes it easy to start playing around with OpenCV (via JavaCV) in Scala without having to compile
 or install OpenCV on your own.
